@@ -14,7 +14,7 @@ A simple, single-page habit tracker you can use right in your browser. Add the h
 
 ## 🚀 Live Demo
 
-👉 **[Try it here](https://USERNAME.github.io/REPO/)**
+👉 **[Try it here](https://siobhanCodes.github.io/habit-tracker/)**
 
 *(Replace `USERNAME` and `REPO` with your GitHub username and repository name once GitHub Pages is turned on.)*
 
